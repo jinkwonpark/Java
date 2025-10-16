@@ -2,7 +2,7 @@ package nested;
 
 public class ShadowingMain {
 
-    public int value = 1;
+    public int value = 1; 
 
     class Inner {
         public int value = 2;
